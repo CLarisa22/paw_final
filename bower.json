@@ -1,0 +1,28 @@
+{
+  "name": "pk04_forms",
+  "main": "index.js",
+  "authors": [
+    "Erik <luiserik.diaz@gmail.com>"
+  ],
+  "description": "\"Servidor completo\"",
+  "moduleType": [],
+  "keywords": [
+    "forms",
+    "bootstrap"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "Materialize": "materialize#~0.97.3"
+  }
+}
